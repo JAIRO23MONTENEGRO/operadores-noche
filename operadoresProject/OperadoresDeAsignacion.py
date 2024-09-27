@@ -24,3 +24,4 @@ print(var5)
 
 var6 //= 3  #var1 = var1+3 asignacion con residuo
 print(var6)
+
